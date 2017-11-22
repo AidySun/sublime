@@ -14,4 +14,5 @@ Sublime Text preference and Package Control settings.
    git remote add sublime http://github.com/AidySun/sublime.git
    git pull sublime master
    ```
+4. Install Package Control in Sublime Text
 
