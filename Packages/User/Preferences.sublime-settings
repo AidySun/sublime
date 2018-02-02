@@ -2,14 +2,16 @@
 	"always_prompt_for_file_reload": false,
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
 	"font_size": 10,
-	"ignored_packages":
-	[
-		"sublime-evernote-master"
-	],
+    "translate_tabs_to_spaces": true,
+	"vintage_start_in_command_mode": true,
+	"theme": "ayu-mirage.sublime-theme",
+
 	"rulers":
 	[
 		120
 	],
-	"theme": "ayu-mirage.sublime-theme",
-	"vintage_start_in_command_mode": true
+	"ignored_packages":
+	[
+		"sublime-evernote-master"
+	]
 }
