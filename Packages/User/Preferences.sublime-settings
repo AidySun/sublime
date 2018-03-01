@@ -10,7 +10,23 @@
 	[
 		120
 	],
+
 	"theme": "ayu-mirage.sublime-theme",
+	// to change the font of side panel:
+	//  1. Navigate to Sublime Text -> Preferences -> Browse Packages
+	//	2. Open the User directory
+	// 	3. Create a file named <theme>.sublime-theme. e.g. ayu-mirage.sublime-theme 
+	// 
+	// 	
+		// [
+		//     {
+		//         "class": "sidebar_label",
+		//         //"color": [0, 0, 0],
+		//         //"font.bold": false,
+		//         "font.size": 14
+		//     },
+		// ]
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true
+
 }
