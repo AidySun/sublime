@@ -2,6 +2,7 @@
 	"always_prompt_for_file_reload": false,
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
 	"font_size": 13,
+	"word_wrap" : "false",
 	"ignored_packages":
 	[
 		"sublime-evernote-master"
