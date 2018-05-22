@@ -1,8 +1,7 @@
 {
 	"always_prompt_for_file_reload": false,
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"color_scheme": "Packages/User/ayu/ayu-mirage.tmTheme",
 	"font_size": 13,
-	"word_wrap" : "false",
 	"ignored_packages":
 	[
 		"sublime-evernote-master"
@@ -11,23 +10,12 @@
 	[
 		120
 	],
-
 	"theme": "ayu-mirage.sublime-theme",
-	// to change the font of side panel:
-	//  1. Navigate to Sublime Text -> Preferences -> Browse Packages
-	//	2. Open the User directory
-	// 	3. Create a file named <theme>.sublime-theme. e.g. ayu-mirage.sublime-theme 
-	// 
-	// 	
-		// [
-		//     {
-		//         "class": "sidebar_label",
-		//         //"color": [0, 0, 0],
-		//         //"font.bold": false,
-		//         "font.size": 14
-		//     },
-		// ]
+	"theme_font_opentions":
+	[
+		"no_bold"
+	],
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true
-
+	"vintage_start_in_command_mode": true,
+	"word_wrap": "false"
 }
