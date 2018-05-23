@@ -1,6 +1,6 @@
 {
 	"always_prompt_for_file_reload": false,
-	"color_scheme": "Packages/User/ayu/ayu-mirage.tmTheme",
+	//"color_scheme": "Packages/User/ayu/ayu-mirage.tmTheme",
 	"font_size": 13,
 	"ignored_packages":
 	[
