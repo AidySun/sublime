@@ -1,11 +1,14 @@
 {
 	"always_prompt_for_file_reload": false,
-	//"color_scheme": "Packages/User/ayu/ayu-mirage.tmTheme",
-	"font_size": 13,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 14,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"sublime-evernote-master"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		120
