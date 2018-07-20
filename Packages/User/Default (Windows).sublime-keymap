@@ -1,5 +1,5 @@
 [
     
-    { "keys": ["ctrl+u"], "command": "move", "args": {"by": "pages", "forward": false} },
-    { "keys": ["ctrl+d"], "command": "move", "args": {"by": "pages", "forward": true} },
+    { "keys": ["ctrl+u"], "command": "scroll_lines", "args": {"amount": 20.0 } },
+    { "keys": ["ctrl+d"], "command": "scroll_lines", "args": {"amount": -20.0 }, "context": { "key": "setting.command_mode" } },
 ]
