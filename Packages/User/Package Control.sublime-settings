@@ -5,13 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"Package Control",
 		"AlignTab",
 		"ayu",
 		"Ethereum",
 		"FileDiffs",
 		"Indent XML",
-        "Markdown Preview",
+		"MarkdownPreview",
+		"Package Control",
 		"Swift"
 	]
 }
