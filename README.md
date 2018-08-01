@@ -1,7 +1,7 @@
 # sublime
 
-Sublime Text preference and Package Control settings.
-Master branch is used for macOS. Refer to https://github.com/AidySun/sublime/tree/win for Windows.
+Sublime Text preference and Package Control settings for macOS.
+Refer to https://github.com/AidySun/sublime/tree/win for Windows.
 
 ## Usage
 0. Install Package Control in Sublime Text
@@ -12,6 +12,6 @@ Master branch is used for macOS. Refer to https://github.com/AidySun/sublime/tre
     
     git init
     git remote add sublime http://github.com/AidySun/sublime.git
-    git pull sublime master
+    git pull sublime mac
     ```
 
