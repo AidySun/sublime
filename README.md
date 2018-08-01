@@ -1,6 +1,6 @@
 # sublime
 
-Sublime Text preference and Package Control settings for Windows. Refer to https://github.com/AidySun/sublime/ for macOS.
+Sublime Text preference and Package Control settings for Windows. Refer to https://github.com/AidySun/sublime/tree/mac for macOS.
 
 ## Usage
 0. Install Package Control in Sublime Text
