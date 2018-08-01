@@ -1,18 +1,17 @@
 # sublime
 
-Sublime Text preference and Package Control settings.
-
+Sublime Text preference and Package Control settings for Windows. Refer to https://github.com/AidySun/sublime/ for macOS.
 
 ## Usage
-0. Shutdown Sublime Text
-1. ```cd``` to ```Sublime Text 3```
-    - Windows: ```~\AppData\Roaming\Sublime Text 3```
-    - macOS: ```~/Library/Application Support/Sublime Text 3```
-2. ```mv Packages/User Packages/User.bak```
-3. ```
+0. Install Package Control in Sublime Text
+1. Run in cmd
+
+   ```
+   cd "%AppData%\Sublime Text 3"
+   rename Packages/User Packages/User.bak
    git init
    git remote add sublime http://github.com/AidySun/sublime.git
-   git pull sublime master
+   git pull sublime win
    ```
-4. Install Package Control in Sublime Text
+
 
