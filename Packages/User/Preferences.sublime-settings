@@ -15,6 +15,7 @@
 	[
 		120
 	],
+	"show_encoding": true,
 	"show_git_status": false,
 	"show_line_endings": false,
 	"tab_size": 4,
