@@ -1,25 +1,24 @@
 {
+	"always_prompt_for_file_reload": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font_size": 11,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"sublime-evernote-master"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 2,
 	"rulers":
 	[
 		120
 	],
-
+	"show_line_endings": false,
 	"tab_size": 4,
-	"font_size": 10,
-	"word_wrap": "false",
-	"line_padding_top": 2,
-	"highlight_line": true,
-	"line_padding_bottom": 1,
-	"draw_white_space": "all",
-	"show_line_endings": true,
-	"fade_fold_buttons": false,
-	"translate_tabs_to_spaces": true,
 	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
-	"always_prompt_for_file_reload": false,
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme"
+	"word_wrap": "false"
 }
