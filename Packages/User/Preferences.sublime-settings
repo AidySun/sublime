@@ -15,12 +15,12 @@
 	[
 		120
 	],
+	"show_git_status": false,
 	"show_line_endings": false,
 	"tab_size": 4,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": "true",
-	"wrap_width": 100,
-	"show_git_status": false
+	"wrap_width": 100
 }
