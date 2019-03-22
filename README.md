@@ -13,5 +13,4 @@ Sublime Text preference and Package Control settings for Windows. Refer to https
    git remote add sublime http://github.com/AidySun/sublime.git
    git pull sublime win
    ```
-
-
+2. Add "Open with Sublime Text" to Windows Explorer Context Menu [with this](https://gist.github.com/AidySun/7e387fc6a8f5d70d34c258c3a0595bc9)
