@@ -1,6 +1,6 @@
 {
 	"always_prompt_for_file_reload": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"font_size": 11,
