@@ -30,5 +30,6 @@
 	],
 	"translate_tabs_to_spaces": false,
 	"vintage_start_in_command_mode": true,
+	"show_full_path": true,
 	"word_wrap": true
 }
