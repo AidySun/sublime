@@ -1,5 +1,5 @@
 [
-    
-    { "keys": ["ctrl+u"], "command": "scroll_lines", "args": {"amount": 20.0 } },
-    { "keys": ["ctrl+d"], "command": "scroll_lines", "args": {"amount": -20.0 }, "context": { "key": "setting.command_mode" } },
+	{ "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+	{ "keys": ["ctrl+u"], "command": "scroll_lines", "args": {"amount": 20.0 } },
+	{ "keys": ["ctrl+d"], "command": "scroll_lines", "args": {"amount": -20.0 }, "context": { "key": "setting.command_mode" } },
 ]

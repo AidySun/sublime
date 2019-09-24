@@ -23,10 +23,9 @@
 	"show_git_status": false,
 	"show_line_endings": false,
 	"tab_size": 4,
-	//"tab_completion": false,
 	"theme": "ayu-mirage.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"vintage_start_in_command_mode": true,
-	"word_wrap": "true",
+	"word_wrap": "false",
 	"wrap_width": 120
 }
