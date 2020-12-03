@@ -11,7 +11,6 @@
 	"highlight_line": false,
 	"ignored_packages":
 	[
-		"sublime-evernote-master"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 2,
