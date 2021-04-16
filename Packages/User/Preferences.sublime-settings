@@ -1,0 +1,35 @@
+{
+	"always_prompt_for_file_reload": false,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"default_line_ending": "unix",
+	"detect_indentation": false,
+	"fade_fold_buttons": false,
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.class"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 2,
+	"rulers":
+	[
+		120
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_git_status": false,
+	"show_line_endings": true,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"theme_font_opentions":
+	[
+		"no_bold"
+	],
+	"translate_tabs_to_spaces": false,
+	"vintage_start_in_command_mode": true
+}

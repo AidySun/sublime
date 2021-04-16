@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlignTab",
+		"ApplySyntax",
+		"ayu",
+		"CMake",
+		"CMakeEditor",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"MarkdownPreview",
+		"MarkdownTOC",
+		"Package Control",
+		"PlantUmlDiagrams",
+		"Pretty JSON",
+		"QML",
+		"SqlBeautifier",
+		"Swift"
+	]
+}
