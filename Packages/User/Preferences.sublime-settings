@@ -25,7 +25,7 @@
 	"show_git_status": false,
 	"show_line_endings": true,
 	"tab_size": 4,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Default.sublime-theme",
 	"theme_font_opentions":
 	[
 		"no_bold"
