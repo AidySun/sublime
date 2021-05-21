@@ -6,21 +6,33 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Agila Theme",
 		"AlignTab",
+		"All Autocomplete",
 		"ApplySyntax",
 		"ayu",
+		"C++ Starting Kit",
 		"CMake",
 		"CMakeEditor",
+		"ColorPicker",
 		"FileDiffs",
+		"Git",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
+		"Markdown Extended",
 		"MarkdownPreview",
 		"MarkdownTOC",
+		"Material Theme",
 		"Package Control",
 		"PlantUmlDiagrams",
 		"Pretty JSON",
+		"PySide",
 		"QML",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
 		"SqlBeautifier",
-		"Swift"
+		"SublimeLinter",
+		"Swift",
+		"Theme - Brogrammer"
 	]
 }

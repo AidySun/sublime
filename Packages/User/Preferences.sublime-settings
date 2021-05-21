@@ -4,9 +4,9 @@
 	"caret_extra_top": 3,
 	"caret_extra_width": 1,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
 	"fade_fold_buttons": false,
-	"font_size": 9,
+	"font_size": 11,
 	"highlight_line": false,
 	"ignored_packages":
 	[
