@@ -5,7 +5,7 @@
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"fade_fold_buttons": false,
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 	],
@@ -33,5 +33,3 @@
 	"translate_tabs_to_spaces": false,
 	"vintage_start_in_command_mode": true
 }
-
-// https://stedolan.github.io/jq/
