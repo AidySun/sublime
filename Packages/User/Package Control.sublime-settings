@@ -1,31 +1,50 @@
 {
 	"bootstrapped": true,
-	"channels":
-	[
-		"https://packagecontrol.io/channel_v3.json",
-		"https://raw.githubusercontent.com/evandrocoan/StudioChannel/master/channel.json"
-	],
 	"in_process_packages":
 	[
+		"Agila Theme",
+		"All Autocomplete",
+		"C++ Starting Kit",
+		"ColorPicker",
+		"Git",
+		"Markdown Extended",
+		"Material Theme",
+		"PySide",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Brogrammer"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
+		"Agila Theme",
 		"AlignTab",
+		"All Autocomplete",
 		"ApplySyntax",
 		"ayu",
+		"C++ Starting Kit",
 		"CMake",
 		"CMakeEditor",
+		"ColorPicker",
 		"FileDiffs",
+		"Git",
 		"HTML-CSS-JS Prettify",
 		"Indent XML",
+		"Markdown Extended",
 		"MarkdownPreview",
 		"MarkdownTOC",
+		"Material Theme",
 		"Package Control",
 		"PlantUmlDiagrams",
 		"Pretty JSON",
+		"PySide",
 		"QML",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
 		"SqlBeautifier",
-		"Swift"
+		"SublimeLinter",
+		"Swift",
+		"Theme - Brogrammer"
 	]
 }

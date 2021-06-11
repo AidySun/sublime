@@ -8,6 +8,18 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
+		"Agila Theme",
+		"All Autocomplete",
+		"C++ Starting Kit",
+		"ColorPicker",
+		"Git",
+		"Markdown Extended",
+		"Material Theme",
+		"PySide",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Brogrammer"
 	],
 	"index_exclude_patterns":
 	[
