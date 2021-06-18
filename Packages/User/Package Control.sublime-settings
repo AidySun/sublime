@@ -2,22 +2,11 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Agila Theme",
-		"All Autocomplete",
-		"C++ Starting Kit",
-		"ColorPicker",
-		"Git",
-		"Markdown Extended",
-		"Material Theme",
-		"PySide",
-		"Qt Completions for C++",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"Theme - Brogrammer"
 	],
 	"installed_packages":
 	[
 		"A File Icon",
+		"ActualVim",
 		"Agila Theme",
 		"AlignTab",
 		"All Autocomplete",
@@ -26,7 +15,6 @@
 		"C++ Starting Kit",
 		"CMake",
 		"CMakeEditor",
-		"ColorPicker",
 		"FileDiffs",
 		"Git",
 		"HTML-CSS-JS Prettify",
@@ -38,7 +26,6 @@
 		"Package Control",
 		"PlantUmlDiagrams",
 		"Pretty JSON",
-		"PySide",
 		"QML",
 		"Qt Completions for C++",
 		"SideBarEnhancements",
